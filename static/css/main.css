@@ -6,6 +6,16 @@ body {
   font-size: 16px;
   color: #666;
 }
+
+.img-circular{
+  width: 120px;
+  height: 120px;
+  background-image: url('https://media-exp1.licdn.com/dms/image/C4D03AQHUFVTj_namkg/profile-displayphoto-shrink_400_400/0?e=1596067200&v=beta&t=adKct2RUHZ4KA2wD8Eb4REfB4EfaC1aVEgrJW9H-x2g');
+  background-size: cover;
+  display: block;
+  border-radius: 50%;
+ }
+
 hr {
   margin-top: 20px;
   margin-bottom: 20px;

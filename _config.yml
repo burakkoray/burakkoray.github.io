@@ -1,10 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: Articles
+description: Articles
+author: Burak Koray Kose
+github: https://github.com/burakkoray
+about: Hi, I’m Burak Koray. I’m a developer from Istanbul. Here, I share my experiences with several technologies on mobile app development.
+disqus_shortname: mobileDevelopment
 google_analytics: UA-XXXXXXXX-Y
+profile_image: https://media-exp1.licdn.com/dms/image/C4D03AQHUFVTj_namkg/profile-displayphoto-shrink_400_400/0?e=1596067200&v=beta&t=adKct2RUHZ4KA2wD8Eb4REfB4EfaC1aVEgrJW9H-x2g
 
 enableTags: true
 tagarray: []
@@ -15,28 +16,23 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/burakkoray"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/burakkoraykose/"
+    - icon: fa-stack-overflow
+      link: "https://stackoverflow.com/users/3956401/burak-koray-k%c3%b6se"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/burakkoray"
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: https://twitter.com/burakkoray
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #   url: /projects/
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
